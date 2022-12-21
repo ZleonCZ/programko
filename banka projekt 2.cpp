@@ -8,6 +8,7 @@ using namespace std;
 int main()
 
 {
+ //promene
 int start;
 
 int pepe = 1111;
