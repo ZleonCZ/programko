@@ -49,7 +49,7 @@ int poslatjamal2;
 
 
 
-
+//start
 
 start:
 cout<<"vitejete ve fio bance"<<"\n";;
